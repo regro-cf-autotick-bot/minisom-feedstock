@@ -1,11 +1,11 @@
-About minisom
-=============
+About minisom-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/minisom-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/JustGlowing/minisom
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/minisom-feedstock/blob/main/LICENSE.txt)
 
 Summary: Minimalistic implementation of the Self Organizing Maps (SOM)
 
