@@ -1,5 +1,5 @@
 {% set name = "minisom" %}
-{% set version = "2.3.0" %}
+{% set version = "2.3.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/MiniSom-{{ version }}.tar.gz
-  sha256: 8f55b7c23136b1cfbc538821f78f64bee78913780998c0b4bfb05bdee9ed192e
+  sha256: b6850d5679e0e54dbc01028536168fca4c5ddc4621a79dc9ec8814b12d6aebdb
 
 build:
   noarch: python
@@ -43,4 +43,4 @@ about:
 extra:
   recipe-maintainers:
     - maclandrol
-    
+
